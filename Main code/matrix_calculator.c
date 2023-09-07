@@ -745,7 +745,7 @@ for (int  i = 0; i < 3; i++)
 
 
 
-printf("YOU ENTERED MATRIX IS \n");
+printf("INPUT MATRIX IS \n");
         for (int  i = 0; i < 3; i++)
     {
         for (int  j = 0; j < 3; j++)
@@ -756,7 +756,7 @@ printf("YOU ENTERED MATRIX IS \n");
         printf("\n");
     }
 
-    printf("INPUT MATRIX IS \n");
+    printf("ADJOINT MATRIX IS \n");
         for (int  i = 0; i < 3; i++)
     {
         for (int  j = 0; j < 3; j++)
